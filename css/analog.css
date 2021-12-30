@@ -1,0 +1,42 @@
+body {
+  font-size: 80%;
+  font-family: "Courier New";
+  letter-spacing: 0.15em;
+  background-color: #efefef;
+}
+#page {
+  max-width: 940px;
+  min-width: 720px;
+  margin: 10px auto 10px auto;
+  background-color: #ffffff;
+  border: black double 4px;
+}
+#logo {
+  width: 150px ;
+  margin: 10px auto 25px auto ;
+}
+ul {
+  width: 570px;
+  padding: 15px;
+  margin: 5px auto 5px auto;
+  border-top: solid black 2px;
+  border-bottom: 1px black solid;
+  text-align: center;
+}
+li {
+  display: inline;
+  margin: 0px 3px;
+}
+p {
+  text-align: center;
+  width: 600px;
+  margin: 20px auto ;
+}
+a {
+  text-decoration: none;
+  padding: 15px;
+  color: black;
+}
+.on { color: crimson}
+
+
